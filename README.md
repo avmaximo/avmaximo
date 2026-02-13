@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Máximo Avila 👋
 
-<!--
-**avmaximo/avmaximo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineering student** and a **Full Stack Developer in training** at UADE. 
+I have a strong background in logic and backend systems thanks to my experience developing multiplayer game servers.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Stack
+* **Languages:** Pawn (C-style scripting), Python, SQL.
+* **Web:** HTML5, CSS3 (Learning JavaScript & React at UADE).
+* **Databases:** MySQL (Data persistence & encryption).
+* **Tools:** VS Code, WampServer, Git/GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Highlighted Project
+**Game Server Backend (SA-MP)**
+* Developed a complete data persistence system using **MySQL**.
+* Implemented secure login systems with password encryption.
+* Managed server-side logic for player inventory and economy.
+
+### 💼 Professional Skills
+* Discipline and organization (1+ year in public administration).
+* Ability to work under pressure and solve complex problems.
+* Currently improving my English at **Liceo Cultural Británico**.
+
+---
+📫 **How to reach me:** [Tu link de LinkedIn aquí]
