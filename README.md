@@ -21,4 +21,4 @@ I have a strong background in logic and backend systems thanks to my experience 
 * Currently improving my English at **Liceo Cultural Británico**.
 
 ---
-📫 **How to reach me:** [Tu link de LinkedIn aquí]
+📫 **How to reach me:** https://www.linkedin.com/in/maximo-avila/
